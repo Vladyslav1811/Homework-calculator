@@ -1,0 +1,14 @@
+C:\Users\vlad\Desktop\Hillel C# Basic\Home Work\Homework calculator\Homework calculator\bin\Debug\net8.0\Homework calculator.exe
+C:\Users\vlad\Desktop\Hillel C# Basic\Home Work\Homework calculator\Homework calculator\bin\Debug\net8.0\Homework calculator.deps.json
+C:\Users\vlad\Desktop\Hillel C# Basic\Home Work\Homework calculator\Homework calculator\bin\Debug\net8.0\Homework calculator.runtimeconfig.json
+C:\Users\vlad\Desktop\Hillel C# Basic\Home Work\Homework calculator\Homework calculator\bin\Debug\net8.0\Homework calculator.dll
+C:\Users\vlad\Desktop\Hillel C# Basic\Home Work\Homework calculator\Homework calculator\bin\Debug\net8.0\Homework calculator.pdb
+C:\Users\vlad\Desktop\Hillel C# Basic\Home Work\Homework calculator\Homework calculator\obj\Debug\net8.0\Homework calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vlad\Desktop\Hillel C# Basic\Home Work\Homework calculator\Homework calculator\obj\Debug\net8.0\Homework calculator.AssemblyInfoInputs.cache
+C:\Users\vlad\Desktop\Hillel C# Basic\Home Work\Homework calculator\Homework calculator\obj\Debug\net8.0\Homework calculator.AssemblyInfo.cs
+C:\Users\vlad\Desktop\Hillel C# Basic\Home Work\Homework calculator\Homework calculator\obj\Debug\net8.0\Homework calculator.csproj.CoreCompileInputs.cache
+C:\Users\vlad\Desktop\Hillel C# Basic\Home Work\Homework calculator\Homework calculator\obj\Debug\net8.0\Homework calculator.dll
+C:\Users\vlad\Desktop\Hillel C# Basic\Home Work\Homework calculator\Homework calculator\obj\Debug\net8.0\refint\Homework calculator.dll
+C:\Users\vlad\Desktop\Hillel C# Basic\Home Work\Homework calculator\Homework calculator\obj\Debug\net8.0\Homework calculator.pdb
+C:\Users\vlad\Desktop\Hillel C# Basic\Home Work\Homework calculator\Homework calculator\obj\Debug\net8.0\Homework calculator.genruntimeconfig.cache
+C:\Users\vlad\Desktop\Hillel C# Basic\Home Work\Homework calculator\Homework calculator\obj\Debug\net8.0\ref\Homework calculator.dll
