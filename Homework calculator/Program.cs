@@ -32,13 +32,13 @@
             switch (operation)
             {
                 case "+":
-                    Console.WriteLine($"answer{num1} + {num2} = {num1 + num2}");
+                    Console.WriteLine($"answer: {num1} + {num2} = {num1 + num2}");
                     break;
                 case "-":
-                    Console.WriteLine($"answer{num1} - {num2} = {num1 - num2}");
+                    Console.WriteLine($"answer: {num1} - {num2} = {num1 - num2}");
                     break;
                 case "*":
-                    Console.WriteLine($"answer{num1} * {num2} = {num1 * num2}");
+                    Console.WriteLine($"answer: {num1} * {num2} = {num1 * num2}");
                     break;
                 case "/":
                     if (num2 == 0)
@@ -47,7 +47,7 @@
                     }
                     else
                     {
-                        Console.WriteLine($"answer{num1} / {num2} = {num1 / num2}");
+                        Console.WriteLine($"answer: {num1} / {num2} = {num1 / num2}");
                     }
                     break;
 
